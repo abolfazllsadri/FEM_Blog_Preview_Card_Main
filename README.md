@@ -8,7 +8,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -28,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-main-with-html-css-wGmvVm4CYP)
+- Live Site URL: [Link](https://mrdev-ir.github.io/FEM_Blog_Preview_Card_Main/)
 
 ### Built with
 
