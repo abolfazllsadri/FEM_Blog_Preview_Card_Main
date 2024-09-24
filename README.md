@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-main-with-html-css-wGmvVm4CYP)
-- Live Site URL: [Link](https://mrdev-ir.github.io/FEM_Blog_Preview_Card_Main/)
+- Live Site URL: [Link](https://abolfazllsadri.github.io/FEM_Blog_Preview_Card_Main/)
 
 ### Built with
 
@@ -37,7 +37,7 @@ Users should be able to:
 
 ## Author
  
-- Frontend Mentor - [@MrDev-ir](https://www.frontendmentor.io/profile/MrDev-ir)
+- Frontend Mentor - [@abolfazllsadri](https://www.frontendmentor.io/profile/abolfazllsadri)
 
 ## Acknowledgments
 
